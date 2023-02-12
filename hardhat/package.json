@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@chainlink/contracts": "^0.5.1",
+    "@nomiclabs/hardhat-ethers": "npm:hardhat-deploy-ethers",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.7",
+    "dotenv": "^16.0.3",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.12.5",
+    "hardhat-deploy": "^0.11.22",
+    "solhint": "^3.3.7"
+  }
+}

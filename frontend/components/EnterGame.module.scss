@@ -1,0 +1,25 @@
+.enterGame {
+  padding: 25px;
+
+  .button {
+    padding: 0.4rem 1.3rem 0.4rem 1.3rem;
+    border: none;
+    background: #e94560;
+    border-radius: 8px;
+    color: white;
+    font-size: 17px;
+    cursor: pointer;
+  }
+
+  .input {
+    padding: 8px;
+    border-radius: 5px;
+    border-style: none;
+    margin-right: 20px;
+  }
+
+  .label {
+    color: white;
+    margin-right: 20px;
+  }
+}
